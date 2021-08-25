@@ -4,9 +4,16 @@ This repository contains all the Neural style transfer Papers considered for a d
 If you find this repository useful for your research, please consider citing
 
 @article{dipika2021neural,  
-title={Survey on Deep Neural based Style Transfer},author={Dipika Gupta, Sachin Chaudhary}, 
+
+title={Survey on Deep Neural based Style Transfer},
+
+author={Dipika Gupta, Sachin Chaudhary}, 
+
 journal={ }, 
-year={2021}}
+
+year={2021}
+
+}
 
 
 ## Applications
