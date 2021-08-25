@@ -25,3 +25,5 @@ year={2021}
 
 [Painter's Lens](https://apps.apple.com/us/app/painters-lens/id1458827474)
 
+[Looq](https://apps.apple.com/us/app/looq-ai-powered-filters/id1159704664)
+
