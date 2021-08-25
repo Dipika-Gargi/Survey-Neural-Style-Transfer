@@ -33,8 +33,6 @@ year={2021}
 
 [Sold at a High-End Auction](https://www.theverge.com/2018/10/25/18023266/ai-art-portrait-christie)
 
-[Up-and-Coming Artists](https://apps.apple.com/us/app/painters-lens/id1458827474)
-
 ### Gaming
 
 [Stadia](https://venturebeat.com/2019/03/19/googles-stadia-uses-style-transfer-ml-to-manipulate-video-game-environments/)
