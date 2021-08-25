@@ -19,6 +19,7 @@ year={2021}
 ## Classification of Current Methods
 
 ## Applications
+### Mobile Applications
 
 [Video Star](https://apps.apple.com/us/app/video-star/id438596432)
 
