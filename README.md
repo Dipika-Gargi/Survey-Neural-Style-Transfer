@@ -19,11 +19,16 @@ year={2021}
 ## Classification of Current Methods
 
 ## Applications
-### Mobile Applications
+
 
 [Video Star](https://apps.apple.com/us/app/video-star/id438596432)
 
 [Painter's Lens](https://apps.apple.com/us/app/painters-lens/id1458827474)
 
 [Looq](https://apps.apple.com/us/app/looq-ai-powered-filters/id1159704664)
+
+[InstaPainting](https://www.instapainting.com/ai-painter)
+
+[Application in Browser](
+
 
