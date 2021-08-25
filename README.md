@@ -20,5 +20,5 @@ year={2021}
 
 ## Applications
 
-[Video Star] ()
+[Video Star](https://apps.apple.com/us/app/video-star/id438596432)
 
