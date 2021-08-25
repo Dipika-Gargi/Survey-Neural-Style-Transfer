@@ -29,6 +29,6 @@ year={2021}
 
 [InstaPainting](https://www.instapainting.com/ai-painter)
 
-[Application in Browser](
+[Application in Browser](https://reiinakano.com/arbitrary-image-stylization-tfjs/)
 
 
